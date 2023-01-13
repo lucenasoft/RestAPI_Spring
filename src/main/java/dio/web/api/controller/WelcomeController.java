@@ -9,5 +9,6 @@ public class WelcomeController {
         public String welcome() {
             return "Welcome to a String Boot REST API";
         }
+        
 
 }
